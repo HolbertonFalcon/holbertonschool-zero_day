@@ -1,2 +1,1 @@
-# holbertonschool-zero_day
-For Holberton School T1
+my first readme
